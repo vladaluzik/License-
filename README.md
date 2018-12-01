@@ -70,8 +70,10 @@ MPL является копилефтной лицензией, но не для
 
   
  **Задание 6**
- https://github.com/vladaluzik/License-/blob/master/6
+[Эссе](https://github.com/vladaluzik/License-/blob/master/6)
+ 
+ 
  **Задания для самостоятельной работы**
- https://github.com/vladaluzik/License-/commit/e2d36decb3760b05debb85452fa30c156f6cd5ce
+[Конспект](https://github.com/vladaluzik/License-/commit/e2d36decb3760b05debb85452fa30c156f6cd5ce)
   
 
