@@ -70,10 +70,14 @@ MPL является копилефтной лицензией, но не для
 
   
  **Задание 6**
-[Эссе](https://github.com/vladaluzik/License-/blob/master/6.gif)
+[Эссе](https://github.com/vladaluzik/License-/blob/master/6)
  
  
  **Задания для самостоятельной работы**
 [Конспект](https://github.com/vladaluzik/License-/commit/e2d36decb3760b05debb85452fa30c156f6cd5ce)
+
+
+<a href="https://blogwork.ru/">Blogwork — Главная страница<a>
+Источник: https://blogwork.ru/kak-vstavit-v-html-ssylku/
   
 
