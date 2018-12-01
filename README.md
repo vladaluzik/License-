@@ -108,3 +108,15 @@ MPL является копилефтной лицензией, но не для
 
 [11.2](https://github.com/vladaluzik/License-/blob/master/11.2)
 
+[B 4.1](https://github.com/vladaluzik/License-/blob/master/B%204.1)
+
+[B 5.2](https://github.com/vladaluzik/License-/blob/master/B%205.2)
+
+[B 6.1](https://github.com/vladaluzik/License-/blob/master/B%206.1)
+
+[B 8.2](https://github.com/vladaluzik/License-/blob/master/B%208.2)
+
+[B 9.2](https://github.com/vladaluzik/License-/blob/master/B%209.2)
+
+[B 10.2](https://github.com/vladaluzik/License-/blob/master/B%2010.2)
+
