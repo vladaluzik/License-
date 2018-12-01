@@ -75,7 +75,7 @@ MPL является копилефтной лицензией, но не для
  
  **Задания для самостоятельной работы**
 [Конспект](https://github.com/vladaluzik/License-/commit/e2d36decb3760b05debb85452fa30c156f6cd5ce)
-
+ 
 
   
 
